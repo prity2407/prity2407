@@ -1,74 +1,96 @@
 <h1 align="center">Hi 👋, I'm Preety Sriwastava</h1>
-<h3 align="center">CS Engineer | AI Whisperer | Code Artist | Data Storyteller</h3>
+<h3 align="center">CS Engineer | AI Whisperer 🧠 | Full Stack Developer 💻 | Data Storyteller 📊</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F173E0&center=true&vCenter=true&width=435&lines=Engineering+intelligence+into+everything.;From+data+to+decisions+to+impact.;Let's+build+smarter+systems+🎯" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+---
+
+🎓 Final Year B.Tech Student at **Bakhtiyarpur College of Engineering**, Bihar Engineering University  
+📚 Diploma Holder in Electronics Engineering from **Government Women’s Polytechnic, Patna**  
+💡 Completed 10th with CGPA 9.2 from **Acharya Sudarshan Vidyapeeth**, Sitamarhi  
+
+🔬 Passionate about transforming ideas into intelligent systems  
+🧠 Exploring Machine Learning, Deep Learning, and Multimodal AI  
+💼 Former Intern at **Tata iQ (AI Strategy)** and **YBI Foundation (Data Analytics)**  
+🛠️ Hands-on with Salesforce development (Apex, LWC, Flows)  
+📈 Built projects like **Heart Disease Prediction**, **Brain Tumor Detection**, and **Webhook Tracker**  
+🌐 Loves creating with HTML | CSS | JS | React | Python | Flask | TensorFlow
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/preety-sriwastava-5b3b33261" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="mailto:pritysrivastava821@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+  </a>
+  <a href="https://github.com/prity2407" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
+  </a>
+  <a href="https://prity2407.github.io/My_Portfolio/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
+  </a>
 </p>
 
 ---
 
-🚀 **About Me**
+### 🛠️ Languages & Tools
 
-I’m a CSE graduate who sees the world as a playground of data and problems waiting to be solved.  
-Whether it’s decoding disease patterns with ML, automating workflows on Salesforce, or capturing GitHub events in real time—if it challenges me, I’m in.
-
-> “I write code like I solve puzzles—with curiosity, creativity, and a little bit of caffeine ☕”
-
----
-
-🎓 **Education**
-- **B.Tech in Computer Science Engineering**  
-  Bakhtiyarpur College of Engineering, Patna (2022–2025) – *CGPA: 8.12*
-- **Diploma in Electronics Engineering**  
-  Government Women’s Polytechnic, Patna (2019–2022) – *CGPA: 8.24*
-- **10th Standard – CBSE**  
-  Acharya Sudarshan Vidyapeeth, Sitamarhi – *CGPA: 9.2*
-
----
-
-💼 **Internships**
-- **Salesforce Developer Intern** @ Self (Dec 2023 – Jan 2024)  
-  ↳ Automated workflows using Apex & LWC, completed Apex Specialist + Dev Super Set badges  
-- **Data Analytics Intern** @ YBI Foundation (Dec 2024 – Jan 2025)  
-  ↳ Uncovered Diwali consumer insights using Python, pandas & Excel dashboards
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+</p>
 
 ---
 
-🧠 **Projects Worth Bragging About**
-- 🪝 **GitHub Webhook Tracker** – Real-time GitHub event listener using Flask, MongoDB, and JavaScript  
-- 🧬 **Disease Prediction Model** – Multi-disease ML model deployed via Streamlit  
-- 🧾 **Diwali Sales Analysis** – Storytelling through data using pandas and visualization tools
+### 🌟 Featured Projects
+
+- 🪝 **GitHub Webhook Tracker** – Captures GitHub push, PR, and merge events using Flask & MongoDB  
+- 🧬 **Disease Prediction (ML + Streamlit)** – Predicts heart and liver conditions based on health data  
+- 📈 **Diwali Sales Analysis** – Insights from sales behavior using pandas, seaborn & Excel  
 
 ---
 
-🏆 **Achievements & Certifications**
-- 🧠 Tata GenAI Data Analytics Simulation – *AI-powered credit delinquency model*
-- 🛡️ Deloitte Cyber Security & Data Analytics Simulations – *Forage*
-- 🏅 Salesforce Superbadges: Apex Specialist & Developer Super Set
-- 📜 TCS iON Career Edge Certified
+### 🏆 Certifications & Simulations
+
+- ✅ Tata GenAI Data Analytics Simulation  
+- ✅ Deloitte Cyber & Data Analytics (Forage)  
+- ✅ Salesforce Superbadges – Apex Specialist, Developer Super Set  
+- ✅ TCS iON Career Edge Certified
 
 ---
 
-🛠️ **Toolbelt**
-Languages: `Python` `C++` `Java`  
-Frontend: `HTML5` `CSS3` `JavaScript` `React.js` `Bootstrap`  
-Backend: `Flask` `Node.js` `Spring`  
-Other Tools: `MongoDB` `VS Code` `Git` `GitHub` `Salesforce CLI` `Excel`
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prity2407&show_icons=true&theme=radical" alt="Preety's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prity2407&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prity2407&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-📫 **Let’s Connect**
-- 📧 pritysrivastava821@gmail.com  
-- 🌐 [Portfolio](https://prity2407.github.io/My_Portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/preety-sriwastava-5b3b33261)  
-- 💻 [GitHub](https://github.com/prity2407)
+### ✨ Fun Fact
+
+😄 I cry over bugs, but I debug them anyway.  
+🌌 One repo at a time, building a better world.
 
 ---
-
-🌀 **Fun Fact:**  
-When I’m not building models or debugging, I’m probably designing a new UI, watching mystery thrillers, or explaining AI to my curious cousin like it’s magic. 🪄
-
----
-
-✨ Let’s turn lines of code into lines of impact.
-

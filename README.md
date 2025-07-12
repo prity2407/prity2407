@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Preety Sriwastava</h1>
 <h3 align="center">CS Engineer | AI Whisperer 🧠 | Full Stack Developer 💻 | Data Storyteller 📊</h3>
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/yNooDleNp8AAAAAC/coding.gif" />
+
 ---
 
 🎓 Final Year B.Tech Student at **Bakhtiyarpur College of Engineering**, Bihar Engineering University  

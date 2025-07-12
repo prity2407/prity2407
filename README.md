@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preety Sriwastava</h1>
 <h3 align="center">CS Engineer | AI Whisperer 🧠 | Full Stack Developer 💻 | Data Storyteller 📊</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/coding.gif" />
+<img align="right" alt="Coding Girl" width="350" src="https://i.imgur.com/gkLxj6x.gif" />
 
 ---
 
